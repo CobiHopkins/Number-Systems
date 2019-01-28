@@ -26,9 +26,10 @@
 7: b) Binary (111 100 000) = Octal (740)
 7: c) Binary (001 100 101 011) = Octal (1453)
 
-8: a) Hex (A3F) = Octal (4477)
+8: a) Hex (A3F) = Octal (5077)
 8: b) Hex (09A2) = Octal (4642)
 8: c) Hex (FB0D) = Octal (175415) 
+
 9: a) Octal (603) = Hex (183)
 9: b) Octal (725) = Hex (1D5)
 9: c) Octal (1004) = Hex (204)
