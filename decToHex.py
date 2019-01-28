@@ -13,5 +13,7 @@ def decToHex(decimal):
 			hex = str(decimal % 16) + hex
 		decimal = int(decimal / 16)
 	return hex
-  
-  dec = int(input("Insert a whole number: "))
+
+dec = int(input("Insert a whole number: "))
+
+print(decToHex(dec))
