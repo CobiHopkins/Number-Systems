@@ -1,0 +1,42 @@
+1: a) Binary (1101) = Decimal (13)
+1: b) Binary (01101001) = Decimal (105)
+1: c) Binary (1101001110.101) = Decimal (846.625)
+
+2: a) Decimal (67) = Binary (1000011)
+2: b) Decimal (381) = Binary (101111101) 
+2: c) Decimal (40.375) = Binary (101000.011)
+
+3: a) Decimal (48) = Binary (00110000)
+3: b) Decimal (103) = Binary (01100111)
+3: c) Decimal (165) = Binary (10100101)
+
+4: a) Hex (63F) = Binary (011000111111)
+4: b) Hex (1A0F) = Binary (0001101000001111) 
+4: c) Hex (E90D) = Binary (1110100100001101)
+
+5: a) Binary (10010011) = Hex (93)
+5: b) Binary (1010 0010 1110 0101) = Hex (A2E5)
+5: c) Binary (0011 0010 0111 0110 0001) = Hex (32761)
+
+6: a) Octal (627) = Binary (110010111)
+6: b) Octal (4550) = Binary (100101101000)
+6: c) Octal (2771) = Binary (010111111001)
+
+7: a) Binary (101 011 001) = Octal (531)
+7: b) Binary (111 100 000) = Octal (740)
+7: c) Binary (001 100 101 011) = Octal (1453)
+
+8: a) Hex (A3F) = Octal (4477)
+8: b) Hex (09A2) = Octal (4642)
+8: c) Hex (FB0D) = Octal (175415) 
+9: a) Octal (603) = Hex (183)
+9: b) Octal (725) = Hex (1D5)
+9: c) Octal (1004) = Hex (204)
+
+10: a) Decimal (8) = BCD (1000)
+10: b) Decimal (39) = BCD (0011 1001)
+10: c) Decimal (526) = BCD (0101 0010 0110)
+
+11: a) BCD (1001) = Decimal (9)
+11: b) BCD (0010 0111) = Decimal (27)
+11: c) BCD (0110 0001 0100) = Decimal (614
