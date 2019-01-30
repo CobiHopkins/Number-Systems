@@ -11,7 +11,7 @@ int main()
 string decToHex(int decimal)
 {
     string hexValue;
-    string extraValues[7] = {"A", "B", "C", "D", "E", "F", "\0"};
+    string extraValues[7] = {"A", "B", "C", "D", "E", "F"};
     
     while (decimal > 0)
     {
